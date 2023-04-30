@@ -14,3 +14,7 @@ func main() {
 
 	fmt.Printf("O novo salário do funcionário é: R$%.2f", novoSalario)
 }
+
+// EXEMPLO DE SAÍDA
+// Informe o salário do funcionário: 2000
+// O novo salário do funcionário é: R$2300.00
